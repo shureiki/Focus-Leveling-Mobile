@@ -1,3 +1,5 @@
+> **Note** : Currently, the main focus is on developing the Android version of the application. Below is the list of features and enhancements planned for future updates:  
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
