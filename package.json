@@ -8,8 +8,14 @@
         "start": "react-native start"
     },
     "dependencies": {
+        "clsx": "^2.1.1",
+        "nativewind": "^4.1.23",
         "react": "18.2.0",
-        "react-native": "0.77.0"
+        "react-native": "0.77.0",
+        "react-native-reanimated": "^3.16.7",
+        "react-native-safe-area-context": "^5.1.0",
+        "tailwind-merge": "^2.6.0",
+        "tailwindcss": "^3.4.17"
     },
     "devDependencies": {
         "@babel/core": "^7.26.7",
